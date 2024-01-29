@@ -18,8 +18,6 @@ namespace firstProject
             dipendente.showDipendente();
             Atleta atleta = new Atleta("Alberto", "Tomba", "Scii di fondo");
             atleta.showAtleta();
-            Console.ReadKey();
-
         }
     }
 }
